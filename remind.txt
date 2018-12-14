@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 cat git 3
+=======
+>>>>>>> 240fda94b1111691177d1fa308f85eac3a4dd68c
 cat git
 git is a free sofeware
 git is a version control system
