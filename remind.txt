@@ -1,2 +1,2 @@
-git learn
+git is a free sofeware
 git is a version control system
